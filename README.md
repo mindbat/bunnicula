@@ -20,7 +20,9 @@ Run it as sudo.
 * Apache
 * Ruby
 * Git
+* Mysql
 * User named 'git' that has access to the repo url you give the script
+* Mysql user named 'drupal'
 
 ## License
 
