@@ -101,4 +101,4 @@ system "a2ensite #{project_domain}"
 system "service apache2 reload"
 
 # direct user to update dns entry
-puts "That's it!\nBe sure to update the dns entry for #{project_name}.mjdinteractive.com to point to this IP\n"
+puts "That's it!\nBe sure to update the dns entry for #{project_domain} to point to this IP\n"
